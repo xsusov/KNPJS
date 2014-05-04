@@ -1,0 +1,23 @@
+2014-05-05  Tomas Susovsky  <tomas.susovsky@gmail.com>
+
+KNPJS 0.2
+Kamen-Nuzky-Papir-Jester-Spock
+(Rock-Paper-Scissors-Lizard-Spock)
+
+
+Version:    Date:           changes:
+--------    ----------      ------------------------------------------------------------------------------------------------
+
+  0.1       2013-12-13      - KNPJS original version
+  0.2       2014-05-05      - added changelog
+  
+  
+
+
+*** TODO  ***
+----------------------------------------------------------------------------------------------------------------------------
+Clean code and add comments.
+Add --help.
+Add score counter.
+Add set_max_score command.
+Add RdRand support.
